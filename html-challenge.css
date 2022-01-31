@@ -1,0 +1,39 @@
+body{
+    margin: 10rem;
+    margin-top: 3rem;
+}
+h1.CV{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border-bottom: solid black;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+    break-after: auto;
+    border-bottom: solid black;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.Name{
+    text-align: center;
+    font-size: 24px;
+}
+p.Details{
+    text-align: center;
+}
+p.University{
+    text-decoration: underline;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: circle black;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: circle black;
+}
